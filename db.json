@@ -1,0 +1,88 @@
+{
+    "marriage candidates": [
+        {
+            "id": 1,
+            "name": "Alex",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png",
+            "loves": "Complete Breakfast, Salmon Dinner",
+            "birthday": "Summer 13"
+        },
+        {
+            "id": 2,
+            "name": "Elliot",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png",
+            "loves": "Crab Cakes, Duck Feather, Lobster, Pomegranate, Squid Ink, Tom Kha Soup",
+            "birthday": "Fall 5"
+        },
+        {
+            "id": 3,
+            "name": "Harvey",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/95/Harvey.png",
+            "loves": "Coffee, Pickles, Super Meal, Truffle Oil, Wine",
+            "birthday": "Winter 14"
+        },
+        {
+            "id": 4,
+            "name": "Sam",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/94/Sam.png",
+            "loves": "Cactus Fruit, Maple Bar, Pizza, Tigerseye",
+            "birthday": "Summer 17"
+        },
+        {
+            "id": 5,
+            "name": "Sebastian",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Sebastian.png",
+            "loves": "Frozen Tear, Obsidian, Pumpkin Soup, Sashimi, Void Egg",
+            "birthday": "Winter 10"
+        },
+        {
+            "id": 6,
+            "name": "Shane",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Shane.png",
+            "loves": "Beer, Hot Pepper, Pepper Poppers, Pizza",
+            "birthday": "Spring 20"
+        },
+        {
+            "id": 7,
+            "name": "Abigail",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png",
+            "loves": "Amethyst, Banana Pudding, Blackberry Cobbler, Chocolate Cake, Pufferfish, Pumpkin, Spicy Eel",
+            "birthday": "Fall 13"
+        },
+        {
+            "id": 8,
+            "name": "Emily",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/2/28/Emily.png",
+            "loves": "Amethyst, Aquamarine, Cloth, Emerald, Jade, Ruby, Survival Burger, Topaz, Wool",
+            "birthday": "Spring 27"
+        },
+        {
+            "id": 9,
+            "name": "Haley",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Haley.png",
+            "loves": "Coconut, Fruit Salad, Pink Cake, Sunflower",
+            "birthday": "Spring 14"
+        },
+        {
+            "id": 10,
+            "name": "Leah",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/e/e6/Leah.png",
+            "loves": "Goat Cheese, Poppyseed Muffin, Salad, Stir Fry, Truffle, Vegetable Medley, Wine",
+            "birthday": "Winter 23"
+        },
+        {
+            "id": 11,
+            "name": "Maru",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Maru.png",
+            "loves": "Battery Pack, Cauliflower, Cheese Cauliflower, Diamond, Gold Bar, Iridium Bar, Miner's Treat, Pepper Poppers, Radioactive Bar, Rhubarb Pie, Strawberry",
+            "birthday": "Summer 10"
+        },
+        {
+            "id": 12,
+            "name": "Penny",
+            "image": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Penny.png",
+            "loves": "Diamond, Emerald, Melon, Poppy, Poppyseed Muffin, Red Plate, Roots Platter, Sandfish, Tom Kha Soup",
+            "birthday": "Fall 2"
+        }
+    ]
+}
